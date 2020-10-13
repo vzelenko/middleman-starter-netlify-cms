@@ -1,1 +1,18 @@
-{}
+{
+  "custom-field": "Test Custom Field",
+  "custom-object": {
+    "custom-line": "Test Custom Line",
+    "custom-text": "Some custom text\nMultiline"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "Item 3"
+    },
+    {
+      "custom-list-item": "Item 2"
+    },
+    {
+      "custom-list-item": "Item 1"
+    }
+  ]
+}
